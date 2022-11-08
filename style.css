@@ -1,0 +1,21 @@
+.image{
+    border-radius: 50%;  
+   
+}
+
+.image:hover{
+    cursor: pointer;
+}
+
+.media-btns{
+    border: none;
+    background-color: white;
+    box-shadow: 2px 2px 5px gray;
+    min-width: 120px;
+    border-radius: 15px;
+}
+
+.media-btns:hover{
+    transition: 1s;
+    box-shadow: 0px 0px 6px gray; 
+}
